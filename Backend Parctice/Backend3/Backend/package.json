@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "conect to fronEnd",
+  "main": "server.js",
+     "type"   : "module",
+
+  "scripts": {
+    
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "server.js"
+  ],
+  "author": "Abdul Ahad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "backend2",
+  "version": "1.0.0",
+  "description": "backend series",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Abdul Ahad",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
